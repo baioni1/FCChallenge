@@ -1,0 +1,6 @@
+c:\users\julie\documents\visual studio 2015\Projects\fogCreekTest\fogCreekTest\bin\Debug\fogCreekTest.exe.config
+c:\users\julie\documents\visual studio 2015\Projects\fogCreekTest\fogCreekTest\bin\Debug\fogCreekTest.exe
+c:\users\julie\documents\visual studio 2015\Projects\fogCreekTest\fogCreekTest\bin\Debug\fogCreekTest.pdb
+c:\users\julie\documents\visual studio 2015\Projects\fogCreekTest\fogCreekTest\obj\Debug\fogCreekTest.csprojResolveAssemblyReference.cache
+c:\users\julie\documents\visual studio 2015\Projects\fogCreekTest\fogCreekTest\obj\Debug\fogCreekTest.exe
+c:\users\julie\documents\visual studio 2015\Projects\fogCreekTest\fogCreekTest\obj\Debug\fogCreekTest.pdb
