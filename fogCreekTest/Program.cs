@@ -20,9 +20,6 @@ namespace fogCreekTest
             //puts characters in dictionary in descending order
             var letter = from pair in count orderby pair.Value descending select pair;
 
-            //char[] mychar = { '_' };
-            //string newString = letters.TrimEnd(mychar);
-
             //use loop to print letters
             foreach(KeyValuePair<char,int> printLetters in letter)
             {
@@ -31,9 +28,8 @@ namespace fogCreekTest
                     break;
                  }
                Console.Write(printLetters.Key);
-                Console.WriteLine("");
-
             }
+            Console.WriteLine("\n");
         }
     }
     //this is a class 
@@ -55,11 +51,11 @@ namespace fogCreekTest
                 }
                 else
                 {
-                    //if already exists, add to the count that already exists
+                    //if character already exists, add to the count
                     characterCount[item]++;
                 }
             }
-            //returns the count
+            //returns the added characters and the count to dictionary
             return characterCount;
         }
     }
